@@ -1,3 +1,0 @@
-javascript:void(sUrl=prompt('view source of:',top.location.href));if(sUrl){void(agt=navigator.userAgent.toLowerCase());if(agt.indexOf('mac')!=-1 && agt.indexOf('msie')!=-1){sPrefix=''}else{sPrefix='view-source:'}void(location.href=sPrefix+sUrl)}
-
-This is a better way :)
