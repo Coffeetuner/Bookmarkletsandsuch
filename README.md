@@ -7,4 +7,5 @@ Console scripts are gonna be in scripts
 Please note this is a work in progress and many things will be added daily
 ------
 Work in progress, 
-Mod menu for many applications/sites
+Visual aspect of calculator
+Off canvas menus aka answers-
