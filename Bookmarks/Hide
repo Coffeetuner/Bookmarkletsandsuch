@@ -1,0 +1,1 @@
+javascript:(function()%7Bvar%20x%20%3D%20window.prompt(Say%20homework%20or%20som%20shit%2CHomework)%0Adocument.title%20%3D%20x%7D)()%3B
