@@ -1,1 +1,1 @@
-javascript:(function()%7Bvar%20x%20%3D%20window.prompt(Say%20homework%20or%20som%20shit%2CHomework)%0Adocument.title%20%3D%20x%7D)()%3B
+javascript:(function() { setInterval(function() { var link = document.querySelector("link[rel*='icon']") || document.createElement('link'); link.type = 'image/x-icon'; link.rel = 'shortcut icon'; link.href = 'https://www.google.com/s2/favicons?domain=google.com'; document.getElementsByTagName('head')[0].appendChild(link); document.title = "Chrome"; console.log("Shhhhh");; }, 1000); })();
